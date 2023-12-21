@@ -1,15 +1,23 @@
+$lightgrey: rgb(75, 75, 75);
+$darkgrey: rgb (44, 44, 44);
+
 .searchbar {
     border-radius: 50px;
-    border-color: rgb(75, 75, 75);
+    border-color: $lightgrey;
     border-style: solid;
     width: 500px;
     height: 10px;
-    background-color: rgb(44, 44, 44);
+    background-color: $darkgrey;
     padding: 15px;
     outline: none;
     color: white;
 }
 
 .searchbar:hover {
-    background-color: rgb(75, 75, 75);
+    background-color: $lightgrey;
+}
+
+.button {
+    background-color: $lightgrey;
+
 }
