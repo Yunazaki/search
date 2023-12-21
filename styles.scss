@@ -6,11 +6,12 @@ $darkgrey: rgb(44, 44, 44);
     border-color: $lightgrey;
     border-style: solid;
     width: 500px;
-    height: 10px;
+    height: 20px;
     background-color: $darkgrey;
-    padding: 15px;
+    padding: 20px;
     outline: none;
     color: white;
+    font-size: 16px;
 }
 
 .searchbar:hover {
@@ -20,4 +21,10 @@ $darkgrey: rgb(44, 44, 44);
 .button {
     background-color: $lightgrey;
 
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 500px;
 }
