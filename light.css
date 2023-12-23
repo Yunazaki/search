@@ -2,6 +2,8 @@ body {
   background-color: white;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
@@ -9,9 +11,21 @@ nav {
   padding: 10px;
   margin: 10px;
 }
-nav a {
+
+.appbar {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+}
+
+.navbar {
+  box-sizing: border-box;
+  padding: 8px;
+}
+.navbar a {
+  float: right;
+  text-align: center;
   text-decoration: none;
-  display: inline;
   color: grey;
   padding: 14px 16px;
 }
