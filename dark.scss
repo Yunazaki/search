@@ -39,8 +39,9 @@ nav {
 
 .btn {
     background-color: $lightgrey;
+    border-color: $lightgrey;
+    border-style: solid;
     color: white;
-    border-style: none;
     border-radius: 3px;
     padding: 8px 16px 8px 16px;
     margin: 10px;
@@ -48,9 +49,7 @@ nav {
 }
 
 .btn:hover {
-    border-style: solid;
-    border-color: white;
-    border-radius: 1px;
+    border-color: grey;
 }
 
 .center {
