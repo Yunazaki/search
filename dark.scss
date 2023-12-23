@@ -37,7 +37,7 @@ nav {
     background-color: $lightgrey;
 }
 
-.button {
+.btn {
     background-color: $lightgrey;
     color: white;
     border-style: none;
@@ -45,6 +45,12 @@ nav {
     padding: 8px 16px 8px 16px;
     margin: 10px;
     font-size: 14px;
+}
+
+.btn:hover {
+    border-style: solid;
+    border-color: white;
+    border-radius: 1px;
 }
 
 .center {
