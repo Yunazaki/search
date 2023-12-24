@@ -8,9 +8,6 @@ A simple HTML and CSS project to create a basic Google search page clone.
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -30,4 +27,4 @@ This project is a clone of the Google search page, created using HTML and CSS ma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/google-clone.git
+   git clone https://github.com/Yunazaki/search.git
