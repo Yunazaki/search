@@ -20,11 +20,3 @@ This project is a clone of the Google search page, created using HTML and CSS ma
 
 ## Demo
 
-
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Yunazaki/search.git
